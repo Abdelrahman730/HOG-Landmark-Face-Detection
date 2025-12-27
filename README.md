@@ -3,7 +3,8 @@
 A computer vision project implementing Histogram of Oriented Gradients (HOG) and facial landmark detection for robust face recognition. This system can detect faces, identify key facial features, and recognize individuals with high accuracy.
 
 ![Face Recognition Demo](./screenshots/demo.png)
-*Screenshot placeholder - Add your face recognition results here*
+![Face Recognition Demo](./screenshots/demo.png)
+*Face Recognition Output*
 
 ## 🌟 Features
 
@@ -41,7 +42,8 @@ A computer vision project implementing Histogram of Oriented Gradients (HOG) and
 - Dataset Size: 100+ individuals, 1000+ images
 
 ![Results](./screenshots/results.png)
-*Results visualization placeholder*
+![Results](./screenshots/results.png)
+*Results visualization*
 
 ## 🚀 Getting Started
 
